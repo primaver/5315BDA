@@ -4,8 +4,8 @@
       "name": "Teresita Spring",
       "relationship": "Mother",
       "rsvp": "Yes",
-      "departure location": "Seattle, WA",
-      "dinner preference": "Meat",
+      "departure_location": "Seattle, WA",
+      "dinner_preference": "Meat",
     }
   ]
 }
