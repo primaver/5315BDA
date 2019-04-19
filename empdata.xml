@@ -4,7 +4,7 @@
       <name>Teresita Spring</name>
       <relationship>Mother</relationship>
       <rsvp>Yes</rsvp>
-      <departure_location>Seattle, WA</departure_location>
+      <departure_location>Seattle,WA</departure_location>
       <dinner_preference>Meat</dinner_preference>
     </data>
   </employees>
