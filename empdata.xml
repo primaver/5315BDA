@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
+      <name>Teresita Spring</name>
+      <relationship>Mother</relationship>
+      <rsvp>Yes</rsvp>
       <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <departure_location>Tokyo</departure_location>
+      <dinner_preference>8422</dinner_preference>
     </data>
   </employees>
