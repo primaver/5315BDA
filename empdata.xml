@@ -2,7 +2,7 @@
   <employees>
     <data>
       <name>Teresita_Spring</name>
-      <relationship>Mother</relationship>
+      <affiliation>Mother</affiliation>
       <rsvp>Yes</rsvp>
       <departure_location>Seattle,WA</departure_location>
       <dinner_preference>Meat</dinner_preference>

@@ -3,7 +3,7 @@
    
     {
       "name": "Teresita Spring",
-      "relationship": "Mother",
+      "affiliation": "Mother",
       "salary": "$342,000",
       "joining_date": "2013/03/03",
       "office": "Edinburgh",
