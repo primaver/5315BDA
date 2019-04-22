@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "customer": "Amazon",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Quinn Flynn",
+      "designation": "Support Lead",
+      "salary": "$342,000",
+      "joining_date": "2013/03/03",
+      "office": "Edinburgh",
+      "extension": "9497"
     }
   ]
 }
