@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "James Bond",
-      "designation": "Accountant",
+      "relationship": "Mother",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
       "office": "Tokyo",
