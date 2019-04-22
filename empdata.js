@@ -2,7 +2,7 @@
   "data": [
    
     {
-      "name": "Quinn Flynn",
+      "name": "Teresita Spring",
       "designation": "Support Lead",
       "salary": "$342,000",
       "joining_date": "2013/03/03",
