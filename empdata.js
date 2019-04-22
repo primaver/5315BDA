@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "Teresita Spring",
+      "name": "Teresita_Spring",
       "relationship": "Mother",
       "rsvp": "Yes",
       "departure_location": "Seattle,WA",
