@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "James Bond",
-      "relationship": "Mother",
+      "customer": "Amazon",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
       "office": "Tokyo",
