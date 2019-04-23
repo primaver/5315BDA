@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Quinn Flynn",
-      "designation": "Support",
+      "genre": "Support",
       "salary": "$342,000",
       "joining_date": "2013/03/03",
       "office": "Edinburgh",
