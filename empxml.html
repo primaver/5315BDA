@@ -20,11 +20,10 @@
               t.row.add( [
                 $(this).find('name').text(),
                 $(this).find('job_title').text(),
-                $(this).find('start_date').text()
-              ] ).draw( false ),
                 $(this).find('shift').text(),
-                $(this).find('hourly_rate').text()              
-                ;
+                $(this).find('hourly_rate').text(),
+                $(this).find('start_date').text()
+              ] ).draw( false );
              });
             }
         });
@@ -50,7 +49,7 @@
             <th>Job Title</th>
             <th>Start Date</th>
             <th>Shift</th>
-            <th>Hourly Rate</th>
+            <th>Salary</th>
         </tr>
     </tfoot>
   </table>
