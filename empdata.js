@@ -39,6 +39,14 @@
       "shift": "2",
       "hourly_rate": "$30.00"
       
+    },
+    { 
+      "name": "Jamie Foxx",
+      "job_title": "Lead Supply Chain Analyst",
+      "start_date": "06/01/2019",
+      "shift": "3",
+      "hourly_rate": "$35.00"
+      
     }
   ]
 }
