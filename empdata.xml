@@ -86,4 +86,12 @@
       <shift>2</shift>
       <hourly_rate>$60.00</hourly_rate>
     </data>
+
+     <data>
+      <name>Dwyane Johnson</name>
+      <job_title>Transportation and Logistics Manager</job_title>
+      <start_date>12/01/2019</start_date>
+      <shift>3</shift>
+      <hourly_rate>$65.00</hourly_rate>
+    </data>
   </employees>

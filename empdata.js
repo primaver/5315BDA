@@ -87,6 +87,14 @@
       "shift": "2",
       "hourly_rate": "$60.00"
       
+    },
+    { 
+      "name": "Dwyane Johnson",
+      "job_title": "Transportation and Logistics Manager",
+      "start_date": "12/01/2019",
+      "shift": "3",
+      "hourly_rate": "$65.00"
+      
     }
 
   ]
