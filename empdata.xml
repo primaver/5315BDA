@@ -2,7 +2,7 @@
   <employees>
     <data>
       <name>Quinn Flynn</name>
-      <reservation>Test</reservation>
+      <designation>Test</designation>
       <salary>$342,000</salary>
       <joining_date>2013/03/03</joining_date>
       <office>Edinburgh</office>

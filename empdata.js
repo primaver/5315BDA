@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Quinn Flynn",
-      "reservation": "Yes",
+      "designation": "Yes",
       "salary": "$342,000",
       "joining_date": "2013/03/03",
       "office": "Edinburgh",
