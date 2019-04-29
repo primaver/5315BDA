@@ -63,4 +63,11 @@
       <hourly_rate>$45.00</hourly_rate>
     </data> 
 
+     <data>
+      <name>Russell Peters</name>
+      <job_title>Legal Manager</job_title>
+      <start_date>08/01/2019</start_date>
+      <shift>3</shift>
+      <hourly_rate>$50.00</hourly_rate>
+    </data>
   </employees>

@@ -63,6 +63,14 @@
       "shift": "2",
       "hourly_rate": "$45.00"
       
+    },
+    { 
+      "name": "Russell Peters",
+      "job_title": "Legal Manager",
+      "start_date": "09/01/2019",
+      "shift": "3",
+      "hourly_rate": "$50.00"
+      
     }
   ]
 }
