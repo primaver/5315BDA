@@ -23,6 +23,14 @@
       "shift": "3",
       "hourly_rate": "$20.00"
       
+    },
+    { 
+      "name": "Daniel Craig",
+      "job_title": "Supply Chain Analyst",
+      "start_date": "04/01/2019",
+      "shift": "1",
+      "hourly_rate": "$25.00"
+      
     }
   ]
 }

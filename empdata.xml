@@ -22,4 +22,12 @@
       <shift>3</shift>
       <hourly_rate>$20.00</hourly_rate>
     </data>
+
+     <data>
+      <name>Daniel Craig</name>
+      <job_title>Supply Chain Analyst</job_title>
+      <start_date>04/01/2019</start_date>
+      <shift>1</shift>
+      <hourly_rate>$25.00</hourly_rate>
+    </data>   
   </employees>
