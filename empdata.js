@@ -79,6 +79,14 @@
       "shift": "1",
       "hourly_rate": "$55.00"
       
+    },
+    { 
+      "name": "Hassan Manaj",
+      "job_title": "Technical Manager",
+      "start_date": "11/01/2019",
+      "shift": "2",
+      "hourly_rate": "$60.00"
+      
     }
 
   ]

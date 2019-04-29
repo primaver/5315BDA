@@ -78,4 +78,12 @@
       <shift>1</shift>
       <hourly_rate>$55.00</hourly_rate>
     </data>
+
+     <data>
+      <name>Hassan Manaj</name>
+      <job_title>Technical Manager</job_title>
+      <start_date>11/01/2019</start_date>
+      <shift>2</shift>
+      <hourly_rate>$60.00</hourly_rate>
+    </data>
   </employees>
