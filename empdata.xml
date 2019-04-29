@@ -58,7 +58,7 @@
      <data>
       <name>Kevin Hart</name>
       <job_title>Business Operations Specialist</job_title>
-      <start_date>07/01/2019</start_date>
+      <start_date>08/01/2019</start_date>
       <shift>2</shift>
       <hourly_rate>$45.00</hourly_rate>
     </data> 
@@ -66,8 +66,16 @@
      <data>
       <name>Russell Peters</name>
       <job_title>Legal Manager</job_title>
-      <start_date>08/01/2019</start_date>
+      <start_date>09/01/2019</start_date>
       <shift>3</shift>
       <hourly_rate>$50.00</hourly_rate>
+    </data>
+
+     <data>
+      <name>Bill Burr</name>
+      <job_title>Human Resources Manager</job_title>
+      <start_date>10/01/2019</start_date>
+      <shift>1</shift>
+      <hourly_rate>$55.00</hourly_rate>
     </data>
   </employees>

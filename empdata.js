@@ -71,6 +71,15 @@
       "shift": "3",
       "hourly_rate": "$50.00"
       
+    },
+    { 
+      "name": "Bill Burr",
+      "job_title": "Human Resources Manager",
+      "start_date": "10/01/2019",
+      "shift": "1",
+      "hourly_rate": "$55.00"
+      
     }
+
   ]
 }
