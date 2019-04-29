@@ -95,6 +95,14 @@
       "shift": "3",
       "hourly_rate": "$65.00"
       
+    },
+    { 
+      "name": "Donald Glover",
+      "job_title": "Creative Director",
+      "start_date": "1/01/2018",
+      "shift": "1",
+      "hourly_rate": "$70.00"
+      
     }
 
   ]

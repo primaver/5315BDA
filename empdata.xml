@@ -94,4 +94,12 @@
       <shift>3</shift>
       <hourly_rate>$65.00</hourly_rate>
     </data>
+
+      data>
+      <name>Donald Glover</name>
+      <job_title>Creative Director</job_title>
+      <start_date>1/01/2018</start_date>
+      <shift>1</shift>
+      <hourly_rate>$70.00</hourly_rate>
+    </data>
   </employees>
