@@ -111,4 +111,12 @@
       <hourly_rate>$75.00</hourly_rate>
     </data>
 
+    <data>
+      <name>Gabriel Iglesias</name>
+      <job_title>International Affairs Director</job_title>
+      <start_date>3/01/2018</start_date>
+      <shift>2</shift>
+      <hourly_rate>$80.00</hourly_rate>
+    </data>
+
   </employees>

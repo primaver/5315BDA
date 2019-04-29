@@ -111,7 +111,14 @@
       "shift": "1",
       "hourly_rate": "$75.00"
       
+    },
+    { 
+      "name": "Gabriel Iglesias",
+      "job_title": "International Affairs Director",
+      "start_date": "3/01/2018",
+      "shift": "2",
+      "hourly_rate": "$80.00"
+      
     }
-
   ]
 }
