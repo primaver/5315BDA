@@ -2,11 +2,10 @@
   <employees>
     <data>
       <name>James Bond</name>
-      <job_title>Accountant</job_title>
+      <job_title>Office Administrator</job_title>
       <salary>$170,750</salary>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
       <extension>8422</extension>
-    
     </data>
   </employees>
