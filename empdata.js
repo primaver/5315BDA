@@ -5,7 +5,7 @@
       "hourly_rate": "$10.00",
       "job_title": "Office Administrator",
       "shift": "1",
-      "office": "Tokyo",
+      "start_date": "01/01/2019",
       "extension": "8422"
 
     }
