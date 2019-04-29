@@ -4,8 +4,7 @@
       <name>James Bond</name>
       <job_title>Office Administrator</job_title>
       <start_date>01/01/2019</start_date>
-      <joining_date>2011/07/25</joining_date>
       <shift>1</shift>
-      <extension>8422</extension>
+      <hourly_rate>$10.00</hourly_rate>
     </data>
   </employees>
