@@ -14,4 +14,12 @@
       <shift>2</shift>
       <hourly_rate>$15.00</hourly_rate>
     </data>
+
+    <data>
+      <name>Pierce Bronson</name>
+      <job_title>Operations Manager</job_title>
+      <start_date>03/01/2019</start_date>
+      <shift>3</shift>
+      <hourly_rate>$20.00</hourly_rate>
+    </data>
   </employees>
