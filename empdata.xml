@@ -47,4 +47,12 @@
       <hourly_rate>$35.00</hourly_rate>
     </data>  
 
+     <data>
+      <name>Hallie Barry</name>
+      <job_title>Regional Vice President</job_title>
+      <start_date>07/01/2019</start_date>
+      <shift>1</shift>
+      <hourly_rate>$40.00</hourly_rate>
+    </data>  
+
   </employees>
