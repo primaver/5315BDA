@@ -19,10 +19,11 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 $(this).find('name').text(),
-                $(this).find('hourly_rate').text(),
-                $(this).find('start_date').text(),
-                $(this).find('shift').text(),
-                $(this).find('job_title').text()
+                $(this).find('designation').text(),
+                $(this).find('office').text(),
+                $(this).find('extension').text(),
+                $(this).find('joining_date').text(),
+                $(this).find('salary').text()
               ] ).draw( false );
              });
             }
@@ -36,20 +37,22 @@
     <thead>
         <tr>
             <th>Name</th>
-            <th>Hourly Rate</th>
-            <th>Start Date</th>
-            <th>Shift</th>
-            <th>Job Title</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
             <th>Name</th>
-            <th>Hourly Rate</th>
-            <th>Start Date</th>
-            <th>Shift</th>
-            <th>Job Title</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </tfoot>
   </table>
