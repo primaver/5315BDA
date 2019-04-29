@@ -103,6 +103,14 @@
       "shift": "1",
       "hourly_rate": "$70.00"
       
+    },
+    { 
+      "name": "Will Smith",
+      "job_title": "CEO",
+      "start_date": "2/01/2018",
+      "shift": "1",
+      "hourly_rate": "$75.00"
+      
     }
 
   ]
