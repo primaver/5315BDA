@@ -7,4 +7,11 @@
       <shift>1</shift>
       <hourly_rate>$10.00</hourly_rate>
     </data>
+    <data>
+      <name>Sean Connery</name>
+      <job_title>Janitor</job_title>
+      <start_date>02/01/2019</start_date>
+      <shift>2</shift>
+      <hourly_rate>$15.00</hourly_rate>
+    </data>
   </employees>
