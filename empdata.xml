@@ -55,4 +55,12 @@
       <hourly_rate>$40.00</hourly_rate>
     </data>  
 
+     <data>
+      <name>Kevin Hart</name>
+      <job_title>Business Operations Specialist</job_title>
+      <start_date>07/01/2019</start_date>
+      <shift>2</shift>
+      <hourly_rate>$45.00</hourly_rate>
+    </data> 
+
   </employees>

@@ -55,7 +55,14 @@
       "shift": "1",
       "hourly_rate": "$40.00"
       
+    },
+    { 
+      "name": "Kevin Hart",
+      "job_title": "Business Operations Specialist",
+      "start_date": "08/01/2019",
+      "shift": "2",
+      "hourly_rate": "$45.00"
+      
     }
-
   ]
 }
