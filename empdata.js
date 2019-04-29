@@ -7,6 +7,8 @@
       "shift": "1",
       "hourly_rate": "$10.00",
 
+     },
+     { 
       "name": "Sean Connery",
       "job_title": "Janitor",
       "start_date": "02/01/2019",
