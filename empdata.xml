@@ -2,11 +2,11 @@
   <employees>
     <data>
       <name>James Bond</name>
-      <inventory>100</inventory>
       <salary>$170,750</salary>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
       <extension>8422</extension>
+      <inventory>100</inventory>    
     </data>
     
   </employees>
