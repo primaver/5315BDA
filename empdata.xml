@@ -29,5 +29,15 @@
       <start_date>04/01/2019</start_date>
       <shift>1</shift>
       <hourly_rate>$25.00</hourly_rate>
-    </data>   
+    </data> 
+
+     <data>
+      <name>Denzel Washington</name>
+      <job_title>Site Manager</job_title>
+      <start_date>05/01/2019</start_date>
+      <shift>2</shift>
+      <hourly_rate>$30.00</hourly_rate>
+    </data>  
+
+
   </employees>

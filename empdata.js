@@ -31,6 +31,14 @@
       "shift": "1",
       "hourly_rate": "$25.00"
       
+    },
+    { 
+      "name": "Denzel Washington",
+      "job_title": "Site Manager",
+      "start_date": "05/01/2019",
+      "shift": "2",
+      "hourly_rate": "$30.00"
+      
     }
   ]
 }
