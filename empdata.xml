@@ -3,7 +3,7 @@
     <data>
       <name>James Bond</name>
       <job_title>Office Administrator</job_title>
-      <salary>$170,750</salary>
+      <start_date>01/01/2019</start_date>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
       <extension>8422</extension>
